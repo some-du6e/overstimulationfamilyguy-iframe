@@ -1,0 +1,8 @@
+iframe {
+    display: block;
+    border-style:none;
+    text-align: center;
+    margin: 0 auto;
+    width: 620px;
+    height: 100%
+}
